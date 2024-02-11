@@ -55,14 +55,13 @@ body > div {
 #Socials {
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
-
+    justify-content: center;
+    gap: 10px;
 }
 
 #Socials img {
     height: auto ;
     width: 10%;
-    flex-basis: 10px;   
 }
 
 .button-85 {
